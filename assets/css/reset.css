@@ -1,0 +1,72 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: hotpink;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+
+
+header img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a:hover {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+h2 {
+    color: hotpink;
+}
+
+section img {
+    width: 50%;
+    border: 2px solid hotpink;
+}
+
+footer {
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+footer nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 600px) {
+    header img {
+        width: 100px;
+    }
+}
+
+body {
+    scroll-behavior: smooth;
+}
