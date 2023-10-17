@@ -12,3 +12,9 @@ This assignement is a portfolio of the early stages of bootcamp, highlighting th
 - I am taken to that deployed application
 - I resized the page or view the site on various screens and device
 - I have a responsive layout that adapts to my viewport
+## Overview
+![Alt text](screencapture-127-0-0-1-5501-challenge-02-index-html-2023-10-16-23_50_45.png)
+## Deployed Repository
+https://hjenp22.github.io/challenge-02/
+### About Author
+- email: hjipark22@gmail.com
